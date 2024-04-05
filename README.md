@@ -2,7 +2,7 @@
 
 ###
 
-<h4>Dicover more on me <a href="https://tnl.one/s/drakonkat">here</a></h4>
+<h4>Dicover more on me <a href="https://tnl.one/s/drakonkat" target="_blank">here</a></h4>
 
 ###
 <div align="center">
